@@ -1,0 +1,16 @@
+You were bitten by a snake!; get antidote; suck poison out; create tourniquet; do nothing
+You have broken a leg!; create brace for broken leg; try to keep walking; scream for help; run away
+You have run out of water!; find a river or stream; run; dig a hole; do nothing
+While traveling you step into quick sand!; try to float on your back; panic; scream for help; do nothing
+When in the forest you run into a bear!; make yourself look big and scary; wrestle the bear; act dead; run away
+An old mining cave can be seen!; avoid going in; look for gold deep in the cave; use it for shelter; keep going
+You hear the roar of a flash flood!; get to higher ground; swim in it; find shelter out of the way; run away
+You are being chased by a wolf pack!; climb a tree; fight them; scream and throw rocks; walk away
+The weather changes and you are caught in a snowstorm!; find shelter and start fire; bundle up, find a cave and keep warm; keep going
+The only way across is across a desert!; have plenty of water; do it in the middle of the day; do it at night; find another way
+The path is covered in poison ivy!; Avoid the path and find a new route; do not worry about it; touch nothing; walk across it
+Your path comes to a steep edge!; find another way; try to jump across; create a rope and climb down; do not worry about it
+You have to cross a very old rope bridge!; be very gentle and cross; swing while crossing; go across with a safety line; walk away
+You trip and sprained your ankle!; find sticks and use them as crutches; get up and try to walk; tighten your shoes tight to keep swelling down; try to run
+You discover the lost city of gold!; look for treasure; tell everyone; investigate with caution; keep going
+You stumble across a group of zombies!; be as quiet as possible and avoid them; ask them for help; protect yourself if found; run away

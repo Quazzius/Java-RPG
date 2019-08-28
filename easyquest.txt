@@ -1,0 +1,12 @@
+needs help watering their plants!; give her money; tell their to find someone else; help them water in exchange for money
+wants to go on an adventure, but they have no money!; pay them money to do jobs; tell them to work harder; bring them along if they pay you back
+needs food!; give them gold; tell them to ask someone else for help; give them food if they pay you back
+is looking for information!; buy them a map for free; do not give them information; give them information in exchange for gold
+is hurt real bad!; buy them medicine; keep going; knock them out for money
+is lost and needs direction!; ask where they are trying to go; keep walking; sell them a map 
+needs protection from bandits!; just help for free; avoid talking to them; sell your sword skills for gold
+lost a dog in the woods!; buy them a new dog; keep on walking; help them find the dog
+wants to buy a horse!; give them a free ride; ride past them; sell them your horse;
+found gold!;  offer to protect them while they work; tell them it isn't real gold; take all the gold for yourself
+wants safe passage through the forest!; guide them through another way; avoid them; offer to help for a fee; 
+wants to attack you!; use smoke bomb to escape; run away; attack them and loot their body
